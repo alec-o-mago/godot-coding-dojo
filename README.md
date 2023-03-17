@@ -4,23 +4,22 @@ This Dojo is focused in training programers to make their first game in Godot En
 
 ## Why Godot?
 
- -
- -
- -
+- Free: Open source. No "Pro" version with extra features or sharing revenue of your game. 
+- Lightweight: Way lower system requirements than Unity and Unreal.
+- Fast: Node system allows quick prototyping
 
 ## Agenda:
 
 - Introduction (5 minutes): The facilitator introduces the coding dojo and the goal of the session.
-- Warm-up (5 minutes): A brief exercise is conducted to get participants warmed up and familiar with the dojo's content
-- Creating the game (45 minutes): Participants follow the instructions to make their first game
-- Adding GitHub Actions (30 minutes): Participants continue to work on their CMake build systems and add GitHub Actions to automate the build and test process.
+- Warm-up (5 minutes): A brief exercise is conducted to get participants warmed up and familiar with the dojo's content.
+- Creating the game (50 minutes): Participants follow the instructions to make their first game.
 - Review and discussion (10 minutes): Participants share their solutions and discuss the various approaches taken to create the CMake build system and implement GitHub Actions.
 - Retrospective (5 minutes): Participants reflect on the session and provide feedback on what went well and what could be improved for future sessions.
 - Closing (5 minutes): The facilitator concludes the session and thanks the participants for their contributions.
 
 ## Warm-Up
 
-Write your desire and expectations here: (insert link later)
+Write your desire and expectations [here](https://github.com/alecsantos96/godot-coding-dojo/issues/1)
 
 ## Setup
 
@@ -32,4 +31,4 @@ Follow the instructions on this link: https://docs.godotengine.org/en/stable/get
 
 ## Review
 
-Give me your feedback here: (insert link later)
+Give me your feedback here: (Link TBA)
