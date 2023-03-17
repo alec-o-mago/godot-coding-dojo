@@ -13,7 +13,7 @@ This Dojo is focused in training programers to make their first game in Godot En
 - Introduction (5 minutes): The facilitator introduces the coding dojo and the goal of the session.
 - Warm-up (5 minutes): A brief exercise is conducted to get participants warmed up and familiar with the dojo's content.
 - Creating the game (50 minutes): Participants follow the instructions to make their first game.
-- Review and discussion (10 minutes): Participants share their solutions and discuss the various approaches taken to create the CMake build system and implement GitHub Actions.
+- Review and discussion (10 minutes): Participants share their solutions and discuss the various approaches taken.
 - Retrospective (5 minutes): Participants reflect on the session and provide feedback on what went well and what could be improved for future sessions.
 - Closing (5 minutes): The facilitator concludes the session and thanks the participants for their contributions.
 
