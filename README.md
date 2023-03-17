@@ -39,4 +39,4 @@ Now make a 3D version of the same game: https://docs.godotengine.org/en/stable/g
 
 ## Review
 
-Give me your feedback here: (Link TBA)
+Give me your feedback [here](https://github.com/alecsantos96/godot-coding-dojo/issues/2)
