@@ -29,7 +29,7 @@ Download Godot Engine from https://godotengine.org/download/
 
 Follow the instructions on this link: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/
 
-(In portuguese: https://docs.godotengine.org/bt_BR/stable/getting_started/first_2d_game/)
+(In portuguese: https://docs.godotengine.org/pt_BR/stable/getting_started/first_2d_game/)
 
 ## Bonus Challenge (If you quickly completed the first challenge and don't want to wait)
 
